@@ -10,6 +10,13 @@ h1 {
   margin: 0;
 }
 
+h5 {
+  font-family: arial, sans-serif;
+  color: #7c7c7c;
+  font-size: 16px;
+  padding-left: 470px;
+}
+
 ul {
   margin: 0 0 10px;
   padding: 0;
